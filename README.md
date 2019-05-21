@@ -75,4 +75,14 @@ cf. Python notebook (simple)
   - Cette fenêtre est recouvrante, elle se déplace d'un pas < taille de la fenêtre 
   - On obtient une succession de valeurs réélles, qui permettent de tracer une courbe colinéaire à la séquence
   - On arrive ainsi à voir un point de rupture qui correspond au point de rupture visible sur le graph DNAWalk de Borrelia, et à l'origine de réplication
-- 
+
+## 2. Genes & protéines
+
+### 2.1. LA SÉQUENCE EST-ELLE UN BON MODÈLE DE L’ADN ?
+
+* Est-ce qu'une chaine de caractère (à 4 lettres) est une représentation correcte d'un objet biologique tridimensionnel aussi complexe & dynamique qu'une molécule d'ADN ? 
+* Un bon modèle est une représentation simplifiée & orientée de la réalité. Elle est orientée par ce qui motive la création du modèle.
+* La chaîne de caractère est un modèle réducteur, simplificateur, mais très utile. le vocabulaire reflète les niveaux de modélsiation :
+  - Biologiste : molécule d'ADN, nucléotides 
+  - Bioinformaticien : séquence génomique, bases 
+  - Informaticien : chaîne de caractères, lettres
